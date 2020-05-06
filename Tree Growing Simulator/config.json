@@ -1,0 +1,6 @@
+{
+  "enabled":true,
+  "showParticles":true,
+  "allTheParticles":false,
+  "waitTime":500
+}
